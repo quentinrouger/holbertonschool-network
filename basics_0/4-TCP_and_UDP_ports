@@ -1,6 +1,3 @@
-518/rpcbind
-1240/sshd
-547/rpc.statd
-518/rpcbind
-1240/sshd
-547/rpc.statd
+#!/usr/bin/env bash
+#Bash script that displays listening ports
+netstat -a
